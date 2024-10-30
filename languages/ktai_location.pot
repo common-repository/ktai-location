@@ -1,0 +1,61 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.1.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2011-08-30 21:00+0900\n"
+"Last-Translator: IKEDA Yuriko <yuriko-ktailocation@yuriko.net>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-Language: Japanese\n"
+"X-Poedit-Country: JAPAN\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;_x:2c,1;_n:1,2;_n_noop:1,2;_c;__ngettext:1,2;__ngettext_noop:1,2\n"
+
+msgid "http://wordpress.org/extend/plugins/ktai-location/"
+msgstr ""
+
+msgid "Extracting geometric data from your post and save them as 'Lat_Long' custom fields."
+msgstr ""
+
+msgid "IKEDA Yuriko"
+msgstr ""
+
+msgid "http://en.yuriko.net/"
+msgstr ""
+
+msgid "Ktai Location Configuration"
+msgstr ""
+
+msgid "Ktai Location"
+msgstr ""
+
+msgid "Google Maps API Key"
+msgstr ""
+
+msgid "You need a Google Maps API Key to convert address using [geo] shortcodes, place name into latitude/longtitude."
+msgstr ""
+
+msgid "If you do not have any key, <a href=\"http://code.google.com/apis/maps/signup.html\">sign up at Google</a>."
+msgstr ""
+
+msgid "Update Options"
+msgstr ""
+
+msgid "Delete Options"
+msgstr ""
+
+msgid "Options Deleted."
+msgstr ""
+
+msgid "Delete all locations (Lat_Long custom field) from posts and pages."
+msgstr ""
+
+msgid "Delete option values and revert them to default."
+msgstr ""
+
+msgid "Do you really delete option values and revert them to default?"
+msgstr ""
+
